@@ -6,8 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "dasno",
-  "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.42.1",
     "@typescript-eslint/parser": "^5.42.1",
@@ -22,5 +20,27 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-simple-import-sort": "^8.0.0",
     "prettier": "^2.7.1"
-  }
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "prettier.config.js"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "prettier",
+    "typescript"
+  ],
+  "author": "dasno",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ntonats/eslint-config-dasno.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ntonats/eslint-config-dasno/issues"
+  },
+  "homepage": "https://github.com/ntonats/eslint-config-dasno#readme"
 }
