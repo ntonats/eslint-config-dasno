@@ -1,5 +1,5 @@
 {
-  "name": "@dasno/eslint-config",
+  "name": "eslint-config-dasno",
   "version": "1.0.0",
   "description": "ESLint + Prettier config for React (Typescript)",
   "main": "index.js",
